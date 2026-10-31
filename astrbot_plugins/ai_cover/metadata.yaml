@@ -1,0 +1,5 @@
+name: ai_cover
+display_name: AI 翻唱
+desc: 收到"唱一首XX"时，从网易云找歌，用本地 RVC 音色翻唱后发语音。翻唱程序在和 AstrBot 并列的 cover 文件夹。
+author: local
+version: 0.1.0

@@ -1,0 +1,5 @@
+name: catch_up
+display_name: 掉线补回复
+desc: 小号掉线重新登录后，拉取掉线期间漏掉的消息，并补发回复。
+author: local
+version: 0.1.0

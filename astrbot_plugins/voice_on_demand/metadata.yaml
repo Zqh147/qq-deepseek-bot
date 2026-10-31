@@ -1,0 +1,5 @@
+name: voice_on_demand
+display_name: 群聊按需语音
+desc: 消息里提到“语音”时，把这条回复转成语音发送（群聊超过50字改发文字）。
+author: local
+version: 0.1.0

@@ -1,0 +1,5 @@
+name: rvc_voice
+display_name: RVC 音色语音
+desc: 先用普通 TTS（如小何）生成语音，再用本地 RVC 音色变声，让说话和唱歌是同一个声音。管理员可用 /声音 切换。
+author: local
+version: 0.1.0

@@ -1,0 +1,5 @@
+name: proactive_chat
+display_name: 主动找你聊天
+desc: 隔一段时间没聊天时，偶尔主动给指定的人发一条消息（按当前人设生成）。
+author: local
+version: 0.1.0

@@ -1,0 +1,5 @@
+name: volc_tts
+display_name: 火山引擎语音（新版）
+desc: 用火山引擎豆包语音新版接口（V3，API Key 鉴权）合成语音，支持 2.0 音色。
+author: local
+version: 0.1.0

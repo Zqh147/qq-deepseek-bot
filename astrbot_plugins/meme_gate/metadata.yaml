@@ -1,0 +1,5 @@
+name: meme_gate
+display_name: 表情包发送开关
+desc: 只有对方这条消息带了表情包，或者文字里提到“表情”“斗图”时，才允许发送表情包。
+author: local
+version: 0.1.0

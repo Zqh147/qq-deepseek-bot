@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# 第三方程序（自己安装，不进仓库）
+AstrBot/
+NapCat/
+cover/Applio/
+cover/.uv_cache/
+
+# 模型、音频、生成结果（体积大，或有版权）
+cover/voices/*/*.pth
+cover/voices/*/*.index
+cover/sep_models/
+cover/asr_models/
+cover/songs/
+cover/out/
+cover/work/
+cover/logs/
+cover/INSTALL_OK
+cover/STT_OK
+*.ckpt
+*.onnx
+*.pth
+*.index
+*.mp3
+*.wav
+*.silk
+
+# 密钥和私人数据
+api_key.txt
+*.env
+.env*
+cmd_config.json
+abconf_*.json
+data/
